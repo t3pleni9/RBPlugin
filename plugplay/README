@@ -1,4 +1,4 @@
 Rhythmbox plugin for controlling play/pause on audio jack plug and unplugging events.
 How To Install.
 1. Copy plugplay folder to ~/.local/share/rhythmbox/plugins/
-2. Restart Rhythmbox and enable PlugPlay in Edit>Plugins
+2. Restart Rhythmbox and enable PlugPlay in Edit --> Plugins

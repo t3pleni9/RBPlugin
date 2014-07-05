@@ -67,7 +67,7 @@ class MyThread(Thread):
                     if self.player.get_playing_entry():
                         print("In If")
                         self.player.play()
-                    else: #First Play
+                    else:                               #First time play. Start by play pause.
                         self.player.playpause(True)
                 elif "HEADPHONE unplug" in self.buff:
                     print( self.player.get_playing_entry())
