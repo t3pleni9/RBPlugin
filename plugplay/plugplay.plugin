@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python
+Module=plugplay
+IAge=2
+Depends=rb
+Name=PlugPlay
+Description=Play or pause Rhythmbox on headphone jack actions.
+Authors=Justin Jose
+Copyright=Blah
+Website=http://github.com/fossfreedom/desktop_art
